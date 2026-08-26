@@ -1,0 +1,15 @@
+Plaintext
+# IDE e compilacao
+.idea/
+*.iml
+out/
+bin/
+target/
+*.class
+
+# Aplica para qualquer subpasta
+**/out/
+**/bin/
+**/target/
+**/.idea/
+**/*.iml
