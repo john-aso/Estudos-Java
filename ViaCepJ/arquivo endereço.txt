@@ -1,0 +1,7 @@
+{
+  "cep": "06864-550",
+  "logradouro": "Avenida Presidente Getúlio Vargas",
+  "bairro": "Jardim Analândia",
+  "localidade": "Itapecerica da Serra",
+  "uf": "SP"
+}

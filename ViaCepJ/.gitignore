@@ -1,0 +1,23 @@
+# Arquivos de compilação do Java (binários gerados)
+*.class
+out/
+target/
+build/
+
+# Configurações específicas da IDE IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Arquivos de logs e diagnósticos
+*.log
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários gerados em tempo de execução (opcional se não quiser subir arquivos gerados)
+# arquivo endereço.json
+# arquivo endereço.txt
